@@ -2,10 +2,13 @@
 .DS_Store
 build
 .git
+*.zip
 *.egg-info
 dist
 output
 data/coco
+data/custom/images
+malaria
 backup
 weights/*.weights
 __pycache__
